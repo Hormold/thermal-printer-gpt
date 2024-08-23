@@ -12,6 +12,7 @@ The current implementation supports the thermal printer model:
 - Power: DC 5-9V/2A
 - Vendor ID: 0x28e9
 - Product ID: 0x0289
+- Aliexpress: [QR204](https://www.aliexpress.us/item/3256805216266967.html)
 
 This is a small, white thermal printer that uses 58mm wide paper rolls.
 
@@ -25,7 +26,7 @@ This is a small, white thermal printer that uses 58mm wide paper rolls.
 
 - Node.js
 - OpenAI API key
-- Supported thermal printer (LQR02-M or compatible models)
+- Supported thermal printer (QR204 or compatible models)
 
 ## Installation
 
